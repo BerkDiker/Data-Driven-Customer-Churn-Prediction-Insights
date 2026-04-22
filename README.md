@@ -61,7 +61,7 @@ dataset.csv → Dataset (if included)
 
 Open in Google Colab
 
-([Add your Colab link here](https://colab.research.google.com/drive/13XSMS4XtGtn3TheztYibQCiN7fC6Ycwv?usp=sharing))
+([Colab link here](https://colab.research.google.com/drive/13XSMS4XtGtn3TheztYibQCiN7fC6Ycwv?usp=sharing))
 
 Author
 
