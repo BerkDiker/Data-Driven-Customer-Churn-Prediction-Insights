@@ -62,6 +62,7 @@ dataset.csv → Dataset (if included)
 Open in Google Colab
 
 ([Colab link here](https://colab.research.google.com/drive/13XSMS4XtGtn3TheztYibQCiN7fC6Ycwv?usp=sharing))
+(Before running the code, please make sure you have uploaded the dataset.)
 
 Author
 
